@@ -1,4 +1,3 @@
-
 <div align="center">
   <br />
   <img src="public/banner.webp" alt="CloudBase Banner" />
@@ -25,14 +24,14 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 CloudBase enables users to manage projects, provision databases, control access,
 and perform backups through a centralized cloud dashboard built on AWS best practices.
 
 ---
 
-## 🧱 System Architecture (AWS)
+## System Architecture (AWS)
 
 <img src="public/aws.webp" alt="AWS Architecture Diagram" />
 
@@ -46,21 +45,24 @@ and perform backups through a centralized cloud dashboard built on AWS best prac
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
+
 - ReactJS
 - Axios
 - Tailwind CSS
 - Deployed on Amazon S3 (Static Hosting)
 
 ### Backend
+
 - Spring Boot
 - RESTful APIs
 - JWT Authentication
 - EC2 Auto Scaling Group
 
 ### Infrastructure
+
 - AWS VPC (Multi-AZ)
 - Application Load Balancer
 - NAT Gateway
@@ -70,7 +72,7 @@ and perform backups through a centralized cloud dashboard built on AWS best prac
 
 ---
 
-## ✨ Core Features
+## Core Features
 
 - Authentication & Authorization
 - Project & Database Management
@@ -81,15 +83,15 @@ and perform backups through a centralized cloud dashboard built on AWS best prac
 
 ---
 
-## 👥 Contributors
+## Contributors
 
-| Name          | Role       | GitHub                                       |
-| ------------- | ---------- | -------------------------------------------- |
-| Pham Anh Pha  | Frontend & Cloud Architecture | [@anhphapap](https://github.com/anhphapap)   |
-| Nguyen Ho Vu  | Backend & Cloud Architecture | [@hoofdux243](https://github.com/hoofdux243) |
+| Name         | Role                          | GitHub                                       |
+| ------------ | ----------------------------- | -------------------------------------------- |
+| Pham Anh Pha | Frontend & Cloud Architecture | [@anhphapap](https://github.com/anhphapap)   |
+| Nguyen Ho Vu | Backend & Cloud Architecture  | [@hoofdux243](https://github.com/hoofdux243) |
 
 ---
 
-## 📄 License
+## License
 
 This project is developed for educational and cloud learning purposes.
